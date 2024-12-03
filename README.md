@@ -7,7 +7,7 @@ Software Engineer
 With a passion for Clojure, Git, GCP, TypeScript, Next.js, DevTools, and more, I navigate the tech landscape like a pro in the making. But it’s not all solo scripting—I thrive on working with people and leading by example, making collaboration as thrilling as successful debugging. Always eager to explore and enlighten, I try to embody the spirit of a true tech enthusiast!
 
 * 🌍  I'm based in Mauritius
-* 🖥️  See my portfolio at [My blog](http://www.curiousprogrammer.com)
+* 🖥️  See my portfolio at [curiousprogrammer.dev](http://www.curiousprogrammer.com)
 * ✉️  You can contact me at [clarice@curiousprogrammer.dev](mailto:clarice@curiousprogrammer.dev)
 * 🧠  I'm learning how to effectively lead teams
 
